@@ -1,0 +1,86 @@
+drug_name,rxcui
+Clotrimazole,8600
+Fluconazole,8601
+Ketoconazole,6182
+Terbinafine,10238
+Paracetamol,161
+Acetaminophen,161
+Aspirin,1191
+Ibuprofen,5640
+Metformin,6809
+Amoxicillin,723
+Azithromycin,616
+Ciprofloxacin,2035
+Levofloxacin,10237
+Omeprazole,3180
+Pantoprazole,10001
+Ranitidine,9332
+Cetirizine,3463
+Loratadine,10002
+Dexamethasone,3154
+Prednisolone,8638
+Hydrocortisone,5487
+Salbutamol,1666
+Montelukast,10003
+Fexofenadine,10004
+Codeine,2670
+Tramadol,10689
+Gabapentin,2526
+Pregabalin,10005
+Losartan,10006
+Amlodipine,1774
+Atorvastatin,83367
+Simvastatin,83368
+Metoprolol,10007
+Enalapril,10008
+Lisinopril,10009
+Hydrochlorothiazide,5489
+Furosemide,5011
+Spironolactone,10010
+Insulin,10011
+Levothyroxine,10012
+Albuterol,1666
+Fluticasone,10013
+Budesonide,10014
+Warfarin,11289
+Clopidogrel,10015
+Heparin,10016
+Metronidazole,10017
+Doxycycline,10018
+Erythromycin,10019
+Cephalexin,10020
+Penicillin,10021
+Ursodeoxycholic acid,10988
+Cholestyramine,2503
+Epinephrine,3992
+Methotrexate,10022
+Proton Pump Inhibitors,3180
+H2 Blockers,9332
+Antiretroviral drugs,6809
+Protease inhibitors,10023
+Integrase inhibitors,10024
+Entry inhibitors,10025
+Fusion inhibitors,10026
+Bronchodilators,1666
+Analgesics,1191
+Pain relievers,1191
+Blood thinners,11289
+IV fluids,10027
+Antimalarial drugs,10028
+Antiviral drugs,10029
+Vaccination,10030
+Alcohol cessation,10031
+Antipyretics,161
+Laxatives,10032
+Nitroglycerin,10033
+Compression stockings,10034
+Antithyroid medications,10035
+Glucose tablets,161
+NSAIDs,5640
+Vestibular rehabilitation,10036
+Topical treatments,8600
+Topical antibiotics,723
+Immunotherapy,10037
+Cytoprotective agents,10038
+Prokinetics,10039
+Warfarin,11289
