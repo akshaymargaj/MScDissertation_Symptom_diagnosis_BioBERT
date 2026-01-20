@@ -1,0 +1,124 @@
+disease,severity,medication1,medication2
+Fungal infection,Mild,Antifungal Cream,Clotrimazole
+Fungal infection,Moderate,Fluconazole,Ketoconazole
+Fungal infection,Severe,Terbinafine,
+Allergy,Mild,Antihistamines,Topical corticosteroids
+Allergy,Moderate,Antihistamines,Oral corticosteroids
+Allergy,Severe,Epinephrine,IV corticosteroids
+Diabetes ,Mild,Metformin,Lifestyle changes
+Diabetes ,Moderate,Metformin,Sulfonylureas
+Diabetes ,Severe,Insulin,Metformin
+Gastroenteritis,Mild,Oral rehydration,Antiemetics
+Gastroenteritis,Moderate,Antiemetics,Antibiotics (if bacterial)
+Gastroenteritis,Severe,IV fluids,Hospitalization
+Bronchial Asthma,Mild,Inhaled corticosteroids,SABA
+Bronchial Asthma,Moderate,Inhaled corticosteroids,LABA
+Bronchial Asthma,Severe,Oral corticosteroids,Oxygen therapy
+Hypertension ,Mild,Lifestyle modification,ACE inhibitors
+Hypertension ,Moderate,ACE inhibitors,Calcium channel blockers
+Hypertension ,Severe,IV antihypertensives,Hospital monitoring
+Cervical spondylosis,Mild,NSAIDs,Physiotherapy
+Cervical spondylosis,Moderate,NSAIDs,Muscle relaxants
+Cervical spondylosis,Severe,Surgery,Strong analgesics
+Chicken pox,Mild,Calamine lotion,Antihistamines
+Chicken pox,Moderate,Acyclovir,Antipyretics
+Chicken pox,Severe,IV Acyclovir,Hospital care
+Dengue,Mild,Paracetamol,Rest
+Dengue,Moderate,Paracetamol,ORS
+Dengue,Severe,IV fluids,Platelet transfusion
+Impetigo,Mild,Topical antibiotics,Antiseptics
+Impetigo,Moderate,Oral antibiotics,Antiseptics
+Impetigo,Severe,IV antibiotics,Hospital care
+Malaria,Mild,Artemisinin-based therapy,Antipyretics
+Malaria,Moderate,Artemisinin-based therapy,IV fluids
+Malaria,Severe,IV Artesunate,Hospital care
+Typhoid,Mild,Antibiotics,Supportive care
+Typhoid,Moderate,Antibiotics,IV fluids
+Typhoid,Severe,IV antibiotics,Hospital care
+hepatitis A,Mild,Supportive care,Rest
+hepatitis A,Moderate,Supportive care,Antivirals
+hepatitis A,Severe,Antivirals,Hospital care
+Hepatitis B,Mild,Supportive care,Rest
+Hepatitis B,Moderate,Antivirals,Rest
+Hepatitis B,Severe,Antivirals,Hospital care
+Hepatitis C,Mild,Supportive care,Rest
+Hepatitis C,Moderate,Antivirals,Rest
+Hepatitis C,Severe,Antivirals,Hospital care
+Hepatitis D,Mild,Supportive care,Rest
+Hepatitis D,Moderate,Antivirals,Rest
+Hepatitis D,Severe,Antivirals,Hospital care
+Hepatitis E,Mild,Supportive care,Rest
+Hepatitis E,Moderate,Antivirals,Rest
+Hepatitis E,Severe,Antivirals,Hospital care
+Alcoholic hepatitis,Mild,Supportive care,Abstinence from alcohol
+Alcoholic hepatitis,Moderate,Supportive care,Antioxidants
+Alcoholic hepatitis,Severe,Liver transplant,Hospital care
+Tuberculosis,Mild,Antitubercular drugs,Rest
+Tuberculosis,Moderate,Antitubercular drugs,IV fluids
+Tuberculosis,Severe,IV Antitubercular drugs,Hospital care
+Common Cold,Mild,Rest,Antipyretics
+Common Cold,Moderate,Antihistamines,Decongestants
+Common Cold,Severe,Antibiotics (if secondary),Hospital care
+Pneumonia,Mild,Antibiotics,Rest
+Pneumonia,Moderate,Antibiotics,Oxygen therapy
+Pneumonia,Severe,IV antibiotics,Hospital care
+Dimorphic hemmorhoids(piles),Mild,Sitz bath,Fiber diet
+Dimorphic hemmorhoids(piles),Moderate,Sitz bath,Rubber band ligation
+Dimorphic hemmorhoids(piles),Severe,Surgery,Hemorrhoidectomy
+Heart attack,Mild,Aspirin,Lifestyle changes
+Heart attack,Moderate,Aspirin,Beta blockers
+Heart attack,Severe,Thrombolytics,Angioplasty
+Varicose veins,Mild,Compression stockings,Lifestyle changes
+Varicose veins,Moderate,Compression stockings,Sclerotherapy
+Varicose veins,Severe,Surgery,Vein stripping
+Hypothyroidism ,Mild,Levothyroxine,Regular monitoring
+Hypothyroidism ,Moderate,Levothyroxine,Levothyroxine dose adjustment
+Hypothyroidism ,Severe,Levothyroxine,Hospital care
+Hyperthyroidism ,Mild,Antithyroid drugs,Regular monitoring
+Hyperthyroidism ,Moderate,Antithyroid drugs,Radioactive iodine
+Hyperthyroidism ,Severe,Thyroidectomy,Hospital care
+Hypoglycemia,Mild,Glucose tablets,Oral carbohydrates
+Hypoglycemia,Moderate,Glucose,Glucagon
+Hypoglycemia,Severe,IV Glucose,Hospital care
+Osteoarthristis,Mild,Pain relievers,Physiotherapy
+Osteoarthristis,Moderate,Pain relievers,NSAIDs
+Osteoarthristis,Severe,Surgery,Joint replacement
+Arthritis,Mild,NSAIDs,Physiotherapy
+Arthritis,Moderate,NSAIDs,DMARDs
+Arthritis,Severe,Biologics,Hospital care
+(vertigo) Paroymsal  Positional Vertigo,Mild,Epley maneuver,Rest
+(vertigo) Paroymsal  Positional Vertigo,Moderate,Epley maneuver,Medications
+(vertigo) Paroymsal  Positional Vertigo,Severe,Surgery,Hospital care
+Acne,Mild,Topical retinoids,Benzoyl peroxide
+Acne,Moderate,Oral antibiotics,Topical retinoids
+Acne,Severe,Oral isotretinoin,Hospital monitoring
+Urinary tract infection,Mild,Antibiotics,Increased fluids
+Urinary tract infection,Moderate,Antibiotics,IV fluids
+Urinary tract infection,Severe,IV antibiotics,Hospital care
+Psoriasis,Mild,Topical corticosteroids,Moisturizers
+Psoriasis,Moderate,Topical corticosteroids,Phototherapy
+Psoriasis,Severe,Biologics,Systemic therapy
+AIDS,Mild,Antiretroviral therapy (ART),Prophylaxis for opportunistic infections
+AIDS,Moderate,Antiretroviral therapy (ART),Prophylaxis + Monitoring
+AIDS,Severe,Antiretroviral therapy (ART),Hospitalization + Opportunistic infection treatment
+Chronic cholestasis,Mild,Ursodeoxycholic acid,Cholestyramine
+Chronic cholestasis,Moderate,Ursodeoxycholic acid,Antipruritics
+Chronic cholestasis,Severe,Ursodeoxycholic acid,Liver transplant evaluation
+Drug Reaction,Mild,Discontinue offending drug,Antihistamines
+Drug Reaction,Moderate,Discontinue offending drug,Topical corticosteroids
+Drug Reaction,Severe,Discontinue offending drug,Systemic corticosteroids + Hospital care
+GERD,Mild,Lifestyle modification,Antacids
+GERD,Moderate,Proton pump inhibitors (PPIs),H2 blockers
+GERD,Severe,Proton pump inhibitors (PPIs),Surgery (fundoplication)
+Jaundice,Mild,Supportive care,Hydration
+Jaundice,Moderate,Supportive care,Antiemetics
+Jaundice,Severe,Supportive care,Treat underlying cause (e.g. surgery)
+Migraine,Mild,NSAIDs,Rest in dark room
+Migraine,Moderate,Triptans,Antiemetics
+Migraine,Severe,Triptans,Preventive therapy (beta-blockers)
+Paralysis (brain hemorrhage),Mild,Rehabilitation,Anticonvulsants
+Paralysis (brain hemorrhage),Moderate,Rehabilitation,Physical therapy
+Paralysis (brain hemorrhage),Severe,Rehabilitation,Clot-dissolving medications
+Peptic ulcer disease,Mild,Proton pump inhibitors (PPIs),Antacids
+Peptic ulcer disease,Moderate,Proton pump inhibitors (PPIs),Antibiotics (if H. pylori)
+Peptic ulcer disease,Severe,Proton pump inhibitors (PPIs),Surgery
